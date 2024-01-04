@@ -2,5 +2,5 @@ Hi 👋 My name is Daniel
 =======================
 
 * 🌍  I'm based in Białystok, Poland
-* ✉️  You can contact me at [szewczuko@pm.me](mailto:szewczuko@pm.me)
+* ✉️  You can contact me [here](contact.md)
 * 🧠  I'm learning Python
